@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Software1.bin.dir/src/config_tty.cpp.o CMakeFiles/Software1.bin.dir/src/funciones_gr1.cpp.o CMakeFiles/Software1.bin.dir/src/main.cpp.o CMakeFiles/Software1.bin.dir/src/participant.cpp.o  -o build/Software1.bin 
